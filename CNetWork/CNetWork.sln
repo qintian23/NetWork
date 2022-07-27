@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "每日一练", "每日一练", "{CCBDB702-88EE-48A1-AAE8-355004279CD3}"
 	ProjectSection(SolutionItems) = preProject
 		7-26.md = 7-26.md
+		7-27.md = 7-27.md
 	EndProjectSection
 EndProject
 Global
