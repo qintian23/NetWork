@@ -12,6 +12,19 @@
 7月27日，6
 
 
+## 服务端的应用部署
+
+* 应用部署
+	* Kestrel
+	* Nginx 
+	* Jexus
+	* IIS
+	* Apache
+	* PM2
+	* Supervisor
+	* 独立发布/单文件
+	* 容器（Docker/K8S/K3S/Rancher）
+
 ## 基于服务端的跨网段扫描设备方法
 
 项目描述：

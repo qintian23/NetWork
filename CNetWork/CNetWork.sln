@@ -5,6 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{A4BF3771-2BB7-4D2C-B97A-DC64A43D70E0}"
 	ProjectSection(SolutionItems) = preProject
+		ApplicationDeployment.md = ApplicationDeployment.md
 		README.md = README.md
 		Technology.md = Technology.md
 	EndProjectSection
@@ -13,6 +14,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "每日一练", "每日一�
 	ProjectSection(SolutionItems) = preProject
 		7-26.md = 7-26.md
 		7-27.md = 7-27.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "难题", "难题", "{EA50DECF-3C16-46FF-8E10-EBE3572B58C6}"
+	ProjectSection(SolutionItems) = preProject
+		难题1.md = 难题1.md
 	EndProjectSection
 EndProject
 Global
