@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <DocumentationFile>FurionHello.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FurionHello.Core.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Furion" Version="4.0.5" />
+    <PackageReference Include="Furion.Extras.ObjectMapper.Mapster" Version="4.0.5" />
+  </ItemGroup>
+
+</Project>
