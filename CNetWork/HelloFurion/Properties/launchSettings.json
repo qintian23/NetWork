@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "HelloFurion": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "applicationUrl": "https://localhost:61878;http://localhost:61879",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

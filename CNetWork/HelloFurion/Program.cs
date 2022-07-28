@@ -1,10 +1,11 @@
-﻿//Serve.Run("http://localhost:25161");
+﻿Serve.Run();
+//Serve.Run("http://localhost:25161");
 
-Serve.Run(RunOptions.Default.ConfigureBuilder(builder =>
-    {
-        builder.WebHost.UseSetting("UseUrls","http://localhost:25161"); // 不行啊
-    }
-));
+//Serve.Run(RunOptions.Default.ConfigureBuilder(builder =>
+//    {
+//        builder.WebHost.UseSetting("UseUrls","http://localhost:25161"); // 不行啊
+//    }
+//));
 
 [DynamicApiController]
 public class HelloService
